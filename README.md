@@ -4,7 +4,7 @@
 ### ⚠ Note : Sometimes the link may deactivate! every time i come back i activate it
 ## What Even Is This?
 
-Lay3d is a 3D first-person simulator where you do one thing and one thing only: **walk around and eat Lays chips**. That's it. That's the whole game. No plot. No missions. No sense. Just you, a virtual Lays bag, and the satisfying crunch of digital snacking.
+Lay3d (Lays Chip Eating Simulator 3D) is a 3D first-person simulator where you do one thing and one thing only: **walk around and eat Lays chips**. That's it. That's the whole game. No plot. No missions. No sense. Just you, a virtual Lays bag, and the satisfying crunch of digital snacking.
 
 Someone threw out a ridiculous prompt to prove we don't use AI to code. We said yes. Here we are.
 
